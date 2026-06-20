@@ -127,3 +127,9 @@ Improving operational reliability has the highest potential to:
 
 ---
 <img width="960" height="524" alt="image" src="https://github.com/user-attachments/assets/beb4bb9a-f6d4-49e4-99ce-d0ea70fad1f4" />
+
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/87fc0bc2-cc10-4ccf-808b-fbe45a4808b8" />
+
+<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/e6222e59-1480-452e-bd4c-3e94f3078b76" />
+
