@@ -127,25 +127,3 @@ Improving operational reliability has the highest potential to:
 
 ---
 <img width="960" height="524" alt="image" src="https://github.com/user-attachments/assets/beb4bb9a-f6d4-49e4-99ce-d0ea70fad1f4" />
-
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/6eb9caf5-a1d2-4510-ab35-5b406dec1bba" />
-
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/8512491a-79b2-4479-ab9d-b0e226cb4303" />
-
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/9c37352f-31e9-4f22-9334-cb6e19a6c14f" />
-
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/1d36e1d1-4d48-4925-8ac0-dc90db02c739" />
-
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/8f3cd27b-e306-4d92-a84e-dd4bbd2eac6a" />
-
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/6382c02b-69d6-4eea-889b-c83d2d6a0db8" />
-
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/91de84c0-20bc-4177-977d-64865a955421" />
-
-<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/a1e4e60d-1fea-4af7-bace-173bcd2eb7b2" />
-
-<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/ff2a6de1-bacc-4ee8-b88e-016bc96b6dea" />
-
-<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/a1cb861a-aec7-4a0e-ae1b-14ade1f9fc0f" />
-
-<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/d9da136a-86b7-4a7c-b13d-9e3ddb10a711" />
